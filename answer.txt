@@ -1,0 +1,56 @@
+{"question": "What is artificial intelligence?", "answer": "Artificial intelligence (AI) is the simulation of human intelligence in machines programmed to think and learn like humans."}
+{"question": "Define machine learning.", "answer": "Machine learning is a subset of AI focused on using data and algorithms to enable machines to improve their performance over time."}
+{"question": "What are the main types of machine learning?", "answer": "The main types are supervised learning, unsupervised learning, and reinforcement learning."}
+{"question": "Explain supervised learning.", "answer": "Supervised learning involves training models on labeled data, so they learn to map inputs to outputs."}
+{"question": "Explain unsupervised learning.", "answer": "Unsupervised learning finds hidden patterns in data that has no labels."}
+{"question": "What is overfitting in machine learning?", "answer": "Overfitting happens when a model performs well on training data but poorly on new, unseen data."}
+{"question": "How can you prevent overfitting?", "answer": "Prevent overfitting by using more data, regularization, or simpler models."}
+{"question": "What is a feature in ML?", "answer": "A feature is an individual measurable property or variable of the data."}
+{"question": "What is model evaluation?", "answer": "Model evaluation measures how well a machine learning model makes predictions."}
+{"question": "What metrics are used to evaluate classification models?", "answer": "Accuracy, precision, recall, F1-score, and ROC-AUC are common metrics."}
+{"question": "Difference between regression and classification?", "answer": "Regression predicts continuous values; classification predicts discrete class labels."}
+{"question": "What is cross-validation?", "answer": "Cross-validation is a technique to assess how a model generalizes to an independent dataset."}
+{"question": "What is transfer learning?", "answer": "Transfer learning reuses a pretrained model on a new, similar problem."}
+{"question": "What are hyperparameters?", "answer": "Hyperparameters are configuration settings used to control the learning process."}
+{"question": "What is feature engineering?", "answer": "Feature engineering is the process of selecting, modifying, or creating new features to improve model performance."}
+{"question": "What is deep learning?", "answer": "Deep learning is a type of machine learning based on neural networks with many layers."}
+{"question": "What is a neural network?", "answer": "A neural network is a set of algorithms modeled after the human brain to recognize patterns."}
+{"question": "What is a CNN?", "answer": "A Convolutional Neural Network (CNN) excels at analyzing images by using convolutional layers."}
+{"question": "What does 'convolution' mean in CNNs?", "answer": "Convolution refers to applying filters to extract features from input data, such as images."}
+{"question": "What is pooling in CNNs?", "answer": "Pooling reduces the spatial size of feature maps and helps control overfitting."}
+{"question": "What is an RNN?", "answer": "A Recurrent Neural Network (RNN) handles sequential data with connections feeding back into previous layers."}
+{"question": "How do RNNs remember information?", "answer": "RNNs have loops in their architecture that allow information to persist."}
+{"question": "What are LSTM networks?", "answer": "Long Short-Term Memory (LSTM) networks are a type of RNN specialized in learning long-term dependencies."}
+{"question": "What is the vanishing gradient problem?", "answer": "It occurs when gradients become too small for the network to learn, often in deep or recurrent networks."}
+{"question": "Name some popular deep learning frameworks.", "answer": "TensorFlow, PyTorch, and Keras are widely used frameworks."}
+{"question": "What is dropout?", "answer": "Dropout is a regularization technique that prevents overfitting by randomly dropping units from the neural network during training."}
+{"question": "What are generative adversarial networks (GANs)?", "answer": "GANs consist of two neural networks, a generator and a discriminator, competing against each other to generate realistic data."}
+{"question": "What are typical applications of CNNs?", "answer": "CNNs are used for image classification, object detection, and facial recognition."}
+{"question": "What are some uses for RNNs?", "answer": "RNNs are used in language modeling, text generation, and time-series prediction."}
+{"question": "What is a chatbot?", "answer": "A chatbot is a software application designed to simulate conversation with human users."}
+{"question": "What are rule-based chatbots?", "answer": "Rule-based chatbots follow predefined rules or scripts to generate responses."}
+{"question": "What are AI-based chatbots?", "answer": "AI-based chatbots use machine learning and NLP to generate more flexible and context-aware responses."}
+{"question": "What is NLP?", "answer": "Natural Language Processing (NLP) is a field of AI that enables machines to understand and interact with human language."}
+{"question": "How do chatbots understand user intent?", "answer": "They use intent classification through NLP models or keyword-based matching."}
+{"question": "What's an example of an intent in chatbot design?", "answer": "An example could be 'book_flight' or 'check_weather'."}
+{"question": "How do chatbots manage conversation context?", "answer": "By tracking past exchanges and user data to maintain coherent dialogue."}
+{"question": "What is slot filling?", "answer": "Slot filling is gathering specific information pieces needed to fulfill a user's request."}
+{"question": "What is fallback intent?", "answer": "It's the default response when a chatbot doesn't understand a user's input."}
+{"question": "What are the benefits of using pre-trained language models in chatbots?", "answer": "They improve understanding, provide richer responses, and reduce training data requirements."}
+{"question": "What is natural language processing?", "answer": "Natural language processing (NLP) enables computers to understand, interpret, and generate human language."}
+{"question": "What is reinforcement learning?", "answer": "Reinforcement learning is a type of machine learning where agents learn by interacting with an environment to maximize rewards."}
+{"question": "What is tokenization in NLP?", "answer": "Tokenization breaks text into words, phrases, or symbols called tokens."}
+{"question": "What is intent recognition?", "answer": "Intent recognition involves determining a user's aim or purpose based on their input."}
+{"question": "Name some libraries for NLP.", "answer": "NLTK, spaCy, and Hugging Face Transformers are popular NLP libraries."}
+{"question": "What is Q-learning?", "answer": "Q-learning is a reinforcement learning algorithm that learns the value of actions in states."}
+{"question": "What is an embedding in ML?", "answer": "An embedding maps high-dimensional data into a lower-dimensional space for easier processing."}
+{"question": "Mention some NLP tasks.", "answer": "Examples include text classification, named entity recognition, machine translation, and summarization."}
+{"question": "Hello!", "answer": "Hi! How can I help you today?"}
+{"question": "Good morning!", "answer": "Good morning! Hope you're having a great day."}
+{"question": "How are you?", "answer": "I'm doing well, thank you! How can I assist you today?"}
+{"question": "Thank you.", "answer": "You're welcome! If you have any more questions, feel free to ask."}
+{"question": "Bye!", "answer": "Goodbye! Have a wonderful day."}
+{"question": "Can you help me?", "answer": "Of course! Let me know what you need assistance with."}
+{"question": "What is your name?", "answer": "I'm your AI assistant, here to help with AI, ML, deep learning, and more."}
+{"question": "Tell me a joke.", "answer": "Why did the computer go to the doctor? Because it had a virus!"}
+{"question": "Can I ask you anything?", "answer": "Yes, feel free to ask me anything about AI or related topics."}
